@@ -34,6 +34,11 @@ public class AppBasics {
 		System.out.println("Thank you for using my app " + name);
 	}
 
+	/**
+	 * 
+	 * @param appName
+	 * @return
+	 */
 	public static String greetUser(String appName) {
 		String name;
 		System.out.println("welecome to the " + appName);
