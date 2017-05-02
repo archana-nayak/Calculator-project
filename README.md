@@ -1,6 +1,6 @@
-# Calculator Project
+# Lollilop Project
 
-*A calculator example project*
+*A lollilop calculator example project*
 
 **Java 8**
 

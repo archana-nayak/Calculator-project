@@ -42,7 +42,7 @@ public class AppBasics {
 	public static String greetUser(String appName) {
 		String name;
 		System.out.println("welecome to the " + appName);
-		System.out.println("Could i get your name: ");
+		System.out.println("Could I get your name: ");
 
 		return scanner.nextLine();
 	}
